@@ -1,0 +1,6 @@
+1 Book "B1" (Person "Author" "One" (Date 1 "January" 1970)) "Functional Programming" 200 [Copy False Nothing Nothing Nothing, Copy True (Just user3) (Just (Date 1 "December" 2024)) (Just (Date 31 "December" 2024))]) []
+2 Book "B1" (Person "Author" "One" (Date 1 "January" 1970)) "Functional Programming" 200 [Copy False Nothing Nothing Nothing, Copy True (Just user3) (Just (Date 1 "December" 2024)) (Just (Date 31 "December" 2024))]) [Book "B1" (Person "Author" "One" (Date 1 "January" 1970)) "Functional Programming" 200 [Copy False Nothing Nothing Nothing, Copy True (Just user3) (Just (Date 1 "December" 2024)) (Just (Date 31 "December" 2024))])]
+3
+4
+5
+6
