@@ -1,0 +1,12 @@
+1
+DVD
+D001
+Chris
+Nolan
+Actor1/Bale/30/January/1974,Actor2/Hathaway/12/November/1982
+15
+July
+2012
+The Dark Knight Rises
+165
+True|Student/Peter/Parker/10/August/1995|20|July|2012|30|July|2012,False|-|-|-|-|-|-|-

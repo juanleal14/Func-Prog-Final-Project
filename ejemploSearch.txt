@@ -1,0 +1,4 @@
+3
+Jane/Doe/15/July/1990
+Haskell for Beginners
+-

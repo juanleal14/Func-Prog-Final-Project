@@ -1,0 +1,11 @@
+2
+Book
+B001
+Jane
+Doe
+15
+July
+1990
+Haskell for Beginners
+300
+False|-|-|-|-|-|-|-
