@@ -1,0 +1,36 @@
+4
+Student/John/Doe/30/August/2003
+===
+Book
+B002
+Jane
+Doe
+1
+January
+2000
+Another Book
+150
+False|-|-|-|-|-|-|-
+===
+1/December/2023
+===
+Book
+B002
+Jane
+Doe
+1
+January
+2000
+Another Book
+150
+False|-|-|-|-|-|-|-
+*
+Journal
+J001
+Author1/Smith/20/April/1975,Author2/Jones/5/March/1980
+10
+December
+2020
+Functional Programming Advances
+120
+True|Professor/Mary/Johnson/15/May/1960|5|December|2020|10|December|2020,False|-|-|-|-|-|-|-
