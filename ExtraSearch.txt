@@ -1,0 +1,26 @@
+3
+===
+Jane/Doe/15/July/1990
+Haskell for Beginners
+-
+===
+Book
+B001
+Jane
+Doe
+15
+July
+1990
+Haskell for Beginners
+300
+False|-|-|-|-|-|-|-
+*
+Journal
+J002
+Author1/Smith/20/April/1975,Author2/Jones/5/March/1980
+Functional Programming
+1
+January
+2020
+120
+False|-|-|-|-|-|-|-
